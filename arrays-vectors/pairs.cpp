@@ -6,7 +6,7 @@
 //Output = [10, -6] Let us assume that there will only be one pair
 
 //Approach 1: brute force:- time complexity O(n^2)
-//Approach 2: sort and do binary search. (NlogN + logN) = O(NlogN)
+//Approach 2: sort and do binary search. (NlogN + NlogN) = O(NlogN)
 //Approach 3: Using Data Structure: set
 /* Advantage of set: the lookup time in set is O(1) instead of O(n).
 NOTE: if we put all the elements in the set from the start then repetition of pairs can occur which isn't required, therefore we will put elements in the set on the go while looping through the arrays

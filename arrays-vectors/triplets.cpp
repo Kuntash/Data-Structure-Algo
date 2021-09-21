@@ -16,7 +16,7 @@ Return empty array if no triplets exists.
 
 //Approach 1: brute force -  a big no since the time complexity will become O(n^3)
 //Approach 2: traverse the array and for each item do pair sum for with target = Target - item     TIME COMPLEXITY: O(n^2)
-//Approach 3: Two pointer approach : sorting(NlogN) + pointers(N)
+//Approach 3: Two pointer approach :
 
 /* Note:- both approach 2 and 3 have same time complexities but the advantage with 3rd one is that O(n) of space is not required while in 2nd approach O(n) of space if required for set */
 
