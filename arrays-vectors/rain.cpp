@@ -16,7 +16,6 @@ using namespace std;
 
 int unitsOfRain(vector<int> arr)
 {
-    //Corner cases
     if (arr.size() <= 2)
     {
         return 0;
