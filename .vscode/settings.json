@@ -52,6 +52,7 @@
         "unordered_set": "cpp",
         "stack": "cpp",
         "deque": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "algorithm": "cpp"
     }
 }
