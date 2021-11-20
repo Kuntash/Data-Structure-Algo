@@ -58,5 +58,6 @@
     "C_Cpp.autocompleteAddParentheses": true,
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "newLine",
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "newLine",
-    "C_Cpp.vcFormat.space.beforeBlockOpenBrace": false
+    "C_Cpp.vcFormat.space.beforeBlockOpenBrace": false,
+    "C_Cpp.errorSquiggles": "Disabled"
 }
